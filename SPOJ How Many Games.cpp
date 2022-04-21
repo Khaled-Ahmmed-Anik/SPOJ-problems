@@ -1,3 +1,10 @@
+
+/*  
+    problem: GAMES - How Many Games?
+    OJ: SPOJ
+    Problem link: https://www.spoj.com/problems/GAMES/
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
